@@ -16,7 +16,14 @@ A full-stack, content-based movie recommendation system with poster images, buil
 ---
 ##  Sample Images
 
+<img width="1513" height="959" alt="image" src="https://github.com/user-attachments/assets/da7c7c7d-c7c8-46e6-802b-f1bd2f1ca770" />
+
+<img width="1696" height="949" alt="image" src="https://github.com/user-attachments/assets/38b41740-ee8d-40d4-8b63-079485a4e13b" />
+
+<img width="1549" height="948" alt="image" src="https://github.com/user-attachments/assets/0eb6a241-5a9b-40ca-8190-02b8e4539dcd" />
+
 <img width="1912" height="951" alt="image" src="https://github.com/user-attachments/assets/21833e0a-5c5f-4c56-8c57-744731f9a3d6" />
+
 
 ---
 ## 🗂️ Repository Structure
