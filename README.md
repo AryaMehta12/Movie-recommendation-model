@@ -4,7 +4,7 @@ A full-stack, content-based movie recommendation system with poster images, buil
 
 ---
 
-## 🚩 Features
+##  Features
 
 - **Content-Based Recommendations:** Suggests similar movies using NLP and vectorization of genres, overview, keywords, cast, and crew.
 - **TMDb Poster Fetching:** Displays high-quality posters for recommended movies via TMDb API.
@@ -14,7 +14,11 @@ A full-stack, content-based movie recommendation system with poster images, buil
 - **API-Driven:** Flask REST API for frontend-backend separation and easy deployment.
 
 ---
+##  Sample Images
 
+<img width="1912" height="951" alt="image" src="https://github.com/user-attachments/assets/21833e0a-5c5f-4c56-8c57-744731f9a3d6" />
+
+---
 ## 🗂️ Repository Structure
 
 Movie-recommendation-model/
