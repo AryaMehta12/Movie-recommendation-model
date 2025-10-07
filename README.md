@@ -27,7 +27,7 @@ A full-stack, content-based movie recommendation system with poster images, buil
 
 ---
 ## 🗂️ Repository Structure
-
+<PRE>
 Movie-recommendation-model/
 │
 ├── Data_preprocess/
@@ -44,7 +44,7 @@ Movie-recommendation-model/
 │
 ├── .gitattributes # Configured for Git LFS (large files)
 └── ... # Processed data & similarity matrix (CSV)
-
+</PRE>
 ---
 
 ## 🛠️ Tech Stack
